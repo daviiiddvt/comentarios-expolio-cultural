@@ -7,6 +7,10 @@ Este repositorio contiene una colección de comentarios reales obtenidos de víd
 - `python.py`: Script para probar y comparar modelos multilingües y en español.
 - `README.md`: Este archivo con información sobre el propósito del repositorio.
 
+## 📥 Origen de los datos
+
+Los comentarios han sido extraídos de vídeos públicos de la plataforma YouTube relacionados con el expolio cultural. No se incluyen enlaces a vídeos específicos para preservar la privacidad y por simplicidad. Todos los datos se han tratado de forma anonimizada y su uso se limita a fines académicos y de investigación, respetando los términos de uso de la plataforma.
+
 ## 🎯 Objetivo
 
 El objetivo es facilitar la reproducción de resultados, promover la transparencia académica y servir como base de análisis para futuros estudios similares.
