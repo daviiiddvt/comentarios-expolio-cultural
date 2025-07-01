@@ -3,7 +3,7 @@
 
 Este repositorio contiene una colección de comentarios reales obtenidos de vídeos de YouTube relacionados con el expolio cultural. Incluye:
 
-- `comentarios_youtube_excel.csv`: Archivo con los comentarios utilizados para análisis.
+- `comentarios_youtube.csv`: Archivo con los comentarios utilizados para análisis.
 - `analisisScript.py`: Script para probar y comparar modelos multilingües y en español.
 - `README.md`: Este archivo con información sobre el propósito del repositorio.
 
